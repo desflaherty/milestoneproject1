@@ -147,7 +147,7 @@ body {
     color: #4e3317;
     font-size: 44px;
     font-style: normal;
-    font-weight: bold;
+  /*  font-weight: bold;*/
 }
 
 
@@ -160,14 +160,14 @@ body {
     color: #F8F8F8;
     font-size: 18px;
     font-style: normal;
-    font-weight: bold;
+   /* font-weight: bold;*/
 
 }
 
 .header-content {
     color: #989794;
     font-style: normal;
-    font-weight: bold;
+   /* font-weight: bold;*/
 }
 
 
@@ -230,7 +230,7 @@ body {
 }
 
 .navbar-default .navbar-nav a {
-    font-weight: bold;
+   /* font-weight: bold;*/
     font-size: 1.2em;
 }
 
