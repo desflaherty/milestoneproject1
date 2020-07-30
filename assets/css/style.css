@@ -374,6 +374,8 @@ as this is more visually appealing*/
         float: none;
         padding-left: 10px;
         padding-right: 10px;
+     top: 50%; 
+            left: 50%;
     }
 }
 
